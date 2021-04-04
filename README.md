@@ -1,5 +1,5 @@
 # Marketing Projects
-This is a 3 part study that builds on each other. I am currently working on Project 3. 
+This is a 4 part study that builds on each other. I am currently working on Project 3. 
 
 **Project 1**  
 Customer segmentation to help grocery store to better understand their customer’s needs to develop micro-marketing strategies to help them boost revenue and gain customer loyalty.
@@ -14,6 +14,9 @@ Your analytics consulting firm was selected by Pernalonga (the client) to adjust
 Your price change recommendations should be realistic, reasonable and justified with price elasticity measures.  Minimum requirements:
  - A list of 100 products with recommended price changes and justifications
  - Expected changes in sales quantity, revenue and profitability for each store and overall across 10 stores
+
+**Project 4**  
+Your analytics consulting firm was selected by Mahou San Miguel (the client) to verify the effectiveness of its promotions and marketing partnership with Pernalonga.  The client is interested in identifying promotion and marketing activities that drive significant incremental sales for continuation into 2021.
 
 **Case description:** Pernalonga, a leading supermarket chain of over 400 stores in Lunitunia, sells over 10 thousand products in over 400 categories.  Pernalonga regularly partners with suppliers to fund promotions and derives about 30% of its sales on promotions. Your analytics consulting firm is being considered by Pernalonga (the client) to develop a marketing campaign to experiment on personalized promotions.  
 
