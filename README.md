@@ -1,5 +1,5 @@
 # Marketing Projects
-This is a 4 part study that builds on each other. I am currently working on Project 3. 
+This is a 4 part study that builds on each other. I am currently working on Project 4. 
 
 **Project 1**  
 Customer segmentation to help grocery store to better understand their customer’s needs to develop micro-marketing strategies to help them boost revenue and gain customer loyalty.
